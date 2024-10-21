@@ -42,7 +42,4 @@ Feel free to explore each framework's folder to find specific examples and proje
 
 If you have any suggestions, improvements, or would like to contribute, please open an issue or submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
